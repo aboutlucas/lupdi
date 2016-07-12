@@ -15,3 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
+
+ git commit -m "ignored sqlite databases" 
